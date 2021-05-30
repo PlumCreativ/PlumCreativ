@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PlumCreativ
-- 👀 I’m interested in     la programmation en python , pour ce qui est base de données !
-- 🌱 I’m currently learning  le lengage Python, et HTML + CSS
-- 💞️ I’m looking to collaborate on  avec les experts dans ce domène !
-- 📫 How to reach me  Vous pouvez me joindre avec mon adresse mail, dans la bio !
+- 👀 I’m interested in programming in python, for the database!
+- 🌱 I’m currently learning lengages Python, and HTML + CSS
+- 💞️ I’m looking to collaborate on the experts in this field!
+- 📫 How to reach me you can reach me with my email address, in the bio!
 
 <!---
 PlumCreativ/PlumCreativ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
